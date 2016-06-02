@@ -2,6 +2,11 @@ body {
     padding: 15px;
 }
 
+.comment {
+    margin: 20px 0px 50px 20px;
+    font-size: 0.75em;
+    color: brown;
+}
 
 .page-header {
     background-color: #55aa99;
